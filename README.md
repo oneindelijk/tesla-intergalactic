@@ -1,3 +1,3 @@
 # tesla-intergalactic
 
-Repository for documentation about Tesla Intergalactic Projects
+Repository for documentation about Tesla Intergalactic Projects 
