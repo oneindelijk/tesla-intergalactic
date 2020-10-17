@@ -4,4 +4,7 @@
 - github repo - DONE
 - github on snifer DONE
 - Daan contacteren - DONE
+    - Foto's met afmetingen maken
 - Langsgaan bij fablab
+- gpt3 bekijken voor media coverage
+- fix git
