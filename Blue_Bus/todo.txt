@@ -2,11 +2,10 @@
 - 2 week schedule - DONE
 - github repo - DONE
 - github on snifer DONE
-<<<<<<< HEAD
-- Daan contacteren
-- Langsgaan bij fablab
-- virtual assistant
-=======
 - Daan contacteren - DONE
 - Langsgaan bij fablab
->>>>>>> f9a2bd3afe92720abff72f0d908f39677dbd8e7f
+- virtual assistant
+- Foto's met afmetingen maken
+- gpt3 bekijken voor media coverage
+- fix git
+
